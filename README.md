@@ -28,6 +28,23 @@
 
 <br><br>
 
+# License Plate Localization
+
+This project provides three methods for license plate localization:
+
+<ol>
+ <li>Custom Trained CNN: A custom convolutional neural network trained specifically for license plate localization.</li>
+ <li>Contour-based Localization: Utilizes contour detection techniques to locate the boundaries of license plates.</li>
+ <li>Haar Cascade Classifier: Uses Haar-like features and a cascade classifier to identify license plate regions.</li>
+</ol>
+
+<br> <br>
+
+# Performance
+The performance of the license plate recognition system may vary depending on the quality of input images, lighting conditions, and other factors. In our evaluation, the system achieves an accuracy of 78% on a benchmark dataset.
+
+<br><br>
+
 
 <p>You Can Contact With Me And Share Your Experiences With Me.</p>
 <li>Email : moeinnouri4983@gmail.com</li>
