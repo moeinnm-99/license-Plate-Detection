@@ -4,6 +4,27 @@ License Plate Detection Using Python
 <img align="center" src="https://github.com/moeinnm-99/license-Plate-Detection/blob/main/1_gg6B3sy57dXoV37_57hWHg.png" alt="License_Plate">
 
 <br><br>
+
+<p>License Plate Recognition is a computer vision project that aims to detect and recognize license plates in images. This project utilizes the YOLOv3 algorithm for vehicle detection and provides multiple methods for license plate localization and character recognition.</p>
+
+<br><br>
+
+# Introduction
+<p>The License Plate Recognition project is designed to detect and recognize license plates in images of vehicles. It utilizes the YOLOv3 algorithm for vehicle detection and provides different methods for license plate localization and character recognition.</p>
+
+<br><br>
+
+# Installation
+<ol> 
+<li>Download the Notebook</li>
+<li>Upload Project Folder to Drive</li>
+<li>Upload Notebook to Colab and Run</li>
+</ol>
+
+
+<br><br>
+
+
 <p>You Can Contact With Me And Share Your Experiences With Me.</p>
 <li>Email : moeinnouri4983@gmail.com</li>
 <li>Email2 : moeinnouriprogrammer4983@gmail.com</li>
