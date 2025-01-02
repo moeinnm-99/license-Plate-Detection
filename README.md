@@ -1,7 +1,7 @@
 # License-Plate-Detection (Coming Soon....)
 
 <P>In This Project We Show You How To Detect License-Plate With Python</P>
-<img align="center" src="https://github.com/moeinnm-99/license-Plate-Detection/blob/main/1_gg6B3sy57dXoV37_57hWHg.png" alt="License_Plate">
+<img align="center" src="https://github.com/moeinnm-99/license-Plate-Detection/blob/main/plate.png" alt="License_Plate">
 
 <br><br>
 
