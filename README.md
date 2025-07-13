@@ -9,7 +9,7 @@ The modified MTCNN structure is presented as below. Only proposal net (Pnet) and
 <img src="test/MTCNN.png"  width="600" style="float: left;">
 
 ## LPRNet Performance 
-LPRNet coding is heavily followed by [sirius-ai](https://github.com/sirius-ai/LPRNet_Pytorch)'s repo. One exception is that the spatial transformer layer is inserted to increase the accuracy reported on CCPD database as below: 
+One exception is that the spatial transformer layer is inserted to increase the accuracy reported on CCPD database as below: 
 
 |   | Base(45k) | DB | FN | Rotate | Tilt | Weather | Challenge |
 |  :------:     | :---------: | :---------: |:---------: |:---------: |:---------: |:---------: |:---------: |
