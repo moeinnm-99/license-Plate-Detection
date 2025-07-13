@@ -30,10 +30,5 @@ One exception is that the spatial transformer layer is inserted to increase the 
 * run 'LPRNet/LPRNet_Test.py' for license plate recognition
 * run 'main.py' for both
 
-## Reference
-* [MTCNN](https://arxiv.org/abs/1604.02878v1)
-* [LPRNet](https://arxiv.org/abs/1806.10447)
-* [Spatial Transformer Layer](https://arxiv.org/abs/1506.02025)
-* [LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch)
 
 **Please give me a star if it is helpful for your research**
